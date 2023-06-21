@@ -2,7 +2,7 @@
 
 Je suis Chaïra. 🙋‍♀️
 
-D'abord diplômée d'un titre professionnel de développeur web et web mobile en 2022 , j'ai décidé de poursuivre mon parcours avec une formation e-learning chez OpenClassrooms sur le [parcours Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) qui se termine en Mars 2024. 💻
+D'abord diplômée d'un titre professionnel de développeuse web et web mobile en 2022 , j'ai décidé de poursuivre mon parcours avec une formation e-learning chez OpenClassrooms sur le [parcours Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react) qui se termine en Mars 2024. 💻
 
 ---
 
